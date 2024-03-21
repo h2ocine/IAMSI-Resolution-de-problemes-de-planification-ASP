@@ -1,4 +1,4 @@
-<h1>Description du projet<h1>
+### Description du projet
 
 Ce projet consiste en la résolution de problèmes de planification en utilisant des fichiers PDDL, des solveurs ASP (Answer Set Programming) et un programme principal en Python.
 
@@ -16,7 +16,7 @@ main.py : Fichier Python contenant le programme principal qui exécute le proces
 
 
 
-<h1>Instructions d'utilisation<h1>
+###  Instructions d'utilisation
 
 Assurez-vous que le fichier clingo dans le répertoire solveur/clingo-4.4.0-x86_64-linux/ a les permissions d'exécution. Si ce n'est pas le cas, exécutez la commande suivante dans le terminal pour donner les permissions d'exécution : chmod 777 ./solveur/clingo-4.4.0-x86_64-linux/clingo.
 
